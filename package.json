@@ -1,0 +1,17 @@
+{
+  "name": "template-express-backend",
+  "version": "0.0.0",
+  "description": "Template for backend in express.",
+  "main": "app.js",
+  "repository": "https://github.com/dusansimic/template-express-backend",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (http://dusansimic.me)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
